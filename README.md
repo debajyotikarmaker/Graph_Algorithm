@@ -1,3 +1,3 @@
 # Graph-Algorithm
 
-https://uqdkarma.github.io/Graph_Algorithm/bst/
+https://debajyotikarmaker.github.io/Graph_Algorithm/bst/
